@@ -1,0 +1,4 @@
+AuthName "CSC210"
+AuthType Basic
+AuthUserFile /home/ec2-user/.htpassed
+Require valid-user
